@@ -1,0 +1,4 @@
+Content\background.xnb
+Content\paddle.xnb
+Content\ball.xnb
+Content\scoreFont.xnb

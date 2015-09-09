@@ -6,16 +6,6 @@
 *.user
 *.sln.docstates
 
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-x64/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-
 # Roslyn cache directories
 *.ide/
 
@@ -27,10 +17,6 @@ bld/
 *.VisualState.xml
 TestResult.xml
 
-# Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
 
 *_i.c
 *_p.c
