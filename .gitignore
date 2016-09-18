@@ -136,6 +136,7 @@ AppPackages/
 # Others
 sql/
 [Bb]uild/
+[Dd]ebug
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
